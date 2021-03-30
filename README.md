@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I am Anirudh Kachroo
 
 ```javascript
 const anirudh = {
@@ -21,4 +22,11 @@ const anirudh = {
 }
 
 ```
+
+
+![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudh-kac&count_private=true&show_icons=true&theme=radical))
+
+
+
+Total Visits : ![Visitor Count](https://profile-counter.glitch.me/anirudh-kac/count.svg)
 
