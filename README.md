@@ -1,5 +1,5 @@
-### Hi there 👋
-## I am Anirudh Kachroo
+
+![Header](header.png)
 
 ```javascript
 const anirudh = {
